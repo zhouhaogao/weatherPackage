@@ -1,6 +1,6 @@
 {
-    "name": "zhouhaogao/my-first-package",
-    "description": "First package",
+    "name": "zhouhaogao/weatherPackage",
+    "description": "The weather",
     "type": "project",
     "license": "MIT",
     "autoload": {
